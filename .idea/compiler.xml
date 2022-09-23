@@ -10,8 +10,8 @@
         <module name="Reddit-Clone" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Reddit-Clone" target="17" />
+    <bytecodeTargetLevel target="11">
+      <module name="Reddit-Clone" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

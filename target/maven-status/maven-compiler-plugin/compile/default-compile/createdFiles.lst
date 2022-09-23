@@ -1,0 +1,8 @@
+com\example\RedditClone\dto\RegisterRequest.class
+com\example\RedditClone\exceptions\SpringRedditException.class
+com\example\RedditClone\controller\AuthController.class
+com\example\RedditClone\util\Constants.class
+com\example\RedditClone\config\SecurityConfig.class
+com\example\RedditClone\service\AuthService.class
+com\example\RedditClone\service\MailService.class
+com\example\RedditClone\service\MailContentBuilder.class

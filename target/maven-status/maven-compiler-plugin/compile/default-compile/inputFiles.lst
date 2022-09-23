@@ -1,0 +1,15 @@
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\model\Post.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\RedditCloneApplication.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\repository\PostRepository.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\repository\VerificationTokenRepository.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\model\Comment.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\model\NotificationEmail.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\model\User.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\repository\UserRepository.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\model\Subreddit.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\repository\SubredditRepository.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\model\Vote.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\model\VoteType.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\repository\VoteRepository.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\model\VerificationToken.java
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\Reddit-Clone\src\main\java\com\example\RedditClone\repository\CommentRepository.java
